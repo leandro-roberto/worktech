@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802242537055",
+    "project_id": "app-meu-frete",
+    "storage_bucket": "app-meu-frete.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802242537055:android:cad497b440168b929bddea",
+        "android_client_info": {
+          "package_name": "com.example.leandro_meufrete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802242537055-41fkbc2tles562ah3am7o8l3vmp78vfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqCK72nMQML0Atr9zWvN0WqSQSGgLdLEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802242537055-41fkbc2tles562ah3am7o8l3vmp78vfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
